@@ -1,0 +1,14 @@
+{
+  "name": "kv-decider",
+  "version": "0.1.0",
+  "description": "Model-agnostic decision handoff and receiver-native KV prefix selection",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "example": "node examples/decision-handoff.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

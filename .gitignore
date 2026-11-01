@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+*.gguf
+*.gguf.*
+*.safetensors
+*.bin
+*.log
+*.slot
+*.kv
+*.core
+results/raw/
+build/
+dist/
